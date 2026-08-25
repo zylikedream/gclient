@@ -1,3 +1,13 @@
+# ⚠️ ARCHIVED — 已归档
+
+本仓库已只读归档。**GServer 工程客户端(hy/bench/pkg/client)已迁移到 monorepo:**
+
+> https://github.com/zylikedream/gserver/tree/master/client
+
+开发与维护全部迁移到 monorepo;本仓库不再接受任何提交/PR/Issue。
+
+---
+
 # hy_client
 
 Console debugging client and benchmark tool for gserver.
